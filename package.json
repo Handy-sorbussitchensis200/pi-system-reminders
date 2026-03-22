@@ -1,0 +1,22 @@
+{
+  "name": "pi-system-reminders",
+  "version": "0.1.0",
+  "description": "Reactive system reminders for pi - steer agents with contextual nudges during long agentic flows",
+  "type": "commonjs",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "extensions": [
+      ".pi/extensions/system-reminders"
+    ]
+  },
+  "dependencies": {
+    "jiti": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  },
+  "author": "michaelliv",
+  "license": "MIT"
+}

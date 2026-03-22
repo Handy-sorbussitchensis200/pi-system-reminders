@@ -1,0 +1,4 @@
+node_modules/
+.pi/reminders/
+.pi/reminders-debug.log
+.pi/tasks/
